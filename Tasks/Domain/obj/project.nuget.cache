@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oUY30vduxg6gEqmJg0ZwIY62G2bBUALQj5438O9+BRlF2dwEq9h2UBthnmgzHq8hMr885K0QFEbEUjaGZWgK/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brawl\\Desktop\\Работа\\Tasks\\Tasks\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brawl\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\brawl\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
